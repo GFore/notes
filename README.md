@@ -1,7 +1,6 @@
 # notes
 
-<details>
-  <summary><h2>Deploying a static site to a new AWS EC2 instance</h2></summary>
+<details><summary><h2>Deploying a static site to a new AWS EC2 instance</h2></summary>
   
   - ssh into the ec2 instance
 
