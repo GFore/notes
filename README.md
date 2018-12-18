@@ -1,6 +1,6 @@
 # notes
 
-## Deploying a static site to a new AWS EC2 instance
+<details><summary>## Deploying a static site to a new AWS EC2 instance</summary>
 - ssh into the ec2 instance
 
 - update the system: `sudo apt update && sudo apt upgrade -y`
@@ -76,3 +76,4 @@
 - then, in a browser, go to the public DNS for the aws instance (which you can find in the aws console, under ec2, - under the "running instances", by clicking on the single running instance)
 
 - yeah! and then, go to the browser and try to pull up the site
+</details>
